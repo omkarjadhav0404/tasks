@@ -1,0 +1,42 @@
+1. what is cloud computing ?
+ans - cloud computing refers to the practice of using to the practice of using remote servers to store, manage, and process data .
+      it allows you to acess ur file & application from anywhere with internet connection .
+      its like having a virtual storage space and computing power in the "cloud"
+2. Deployment modulein cloud ?
+ans - In cloud computing, a deployment module refers to a package or unit of software that is deployed and run on cloud infrastructure.
+      It can include applications, services, or components that are designed to work together in the cloud environment.
+      It's a way to organize and manage software deployments in the cloud.
+3. Service Module In Cloud ?
+ans - cloud computing, a service module refers to a component or unit of functionality that is provided as a service in the cloud. 
+      It can include services such as storage, computing power, networking, databases, and more. 
+      These service modules are designed to be scalable, flexible, and accessible over the internet.
+      They allow users to leverage cloud resources without having to manage the underlying infrastructure. 
+      It's like having a menu of services that you can choose from in the cloud.
+4. Architecture of cloud computing ?
+ans - The architecture of cloud computing typically involves a combination of different components.
+      At a high level, it includes the following Layer
+      1. Infrastructure as a Service (IaaS): This layer provides virtualized computing resources like virtual machines, storage, and networks.
+         It gives you the flexibility to manage and control the underlying infrastructure. 
+      2. Platform as a Service (PaaS): This layer provides a platform for developing, testing, and deploying applications.
+         It includes tools, frameworks, and runtime environments to simplify the application development process. 
+      3. Software as a Service (SaaS): This layer offers ready-to-use software applications that are accessible over the internet.
+         Examples include email services, customer relationship management (CRM) systems, and collaboration tools.
+5. AWS global infrastructure count ?
+ans - AWS has a vast global infrastructure with data centers located in various regions around the world. 
+      As of my last knowledge update, AWS operates in 25 geographic regions, including Pune, Maharashtra, India. 
+      Each region consists of multiple availability zones, which are separate data centers within that region. 
+      This extensive infrastructure allows AWS to provide reliable and scalable cloud services to users worldwide.
+6. why do we use region ?
+ans - We use regions in AWS to ensure high availability, fault tolerance, and low latency for our applications and services. 
+      By choosing a specific region, we can deploy our resources closer to our target audience or leverage specific regulatory requirements. 
+      It also allows us to replicate data across multiple regions for disaster recovery purposes.
+      Regions in AWS act as separate geographic areas with their own data centers, giving us the flexibility to optimize performance and meet our specific business needs.
+7. what is service and why we use resources ?
+ans - 1. In the context of cloud computing, a service refers to a specific functionality or capability that is provided by a cloud provider, such as AWS. 
+      These services can include computing power, storage, networking, databases, machine learning, and more. 
+      They are designed to be accessible over the internet and can be used to build, deploy, and manage applications and infrastructure in the cloud.
+      2. On the other hand, resources in the context of AWS are the individual components or entities that you create and manage within the AWS environment. 
+      These resources can include virtual machines (EC2 instances), storage buckets (S3 buckets), databases (RDS instances), and more.
+      Each resource has its own characteristics, configurations, and settings that you can control and manage based on your requirements.
+      3.So, in simple terms, services are the functionalities provided by AWS, while resources are the individual components or entities that you create and manage within those services.
+      It's like using different tools (services) to create and manage various objects (resources) in the AWS cloud
